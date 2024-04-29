@@ -17,4 +17,4 @@ while True:
 
     except EOFError:
         print("\nThank you for coming!")
-        break
+        sys.exit()

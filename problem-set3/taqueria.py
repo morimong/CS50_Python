@@ -13,7 +13,6 @@ menu = {
 }
 
 total = 0
-
 while True:
     try:
         item = input("Item: ").title()
